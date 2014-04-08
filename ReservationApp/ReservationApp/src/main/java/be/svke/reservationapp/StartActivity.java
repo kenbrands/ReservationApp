@@ -10,46 +10,5 @@ public class StartActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.startrelative);
-
-
-        /*
-        EVEN TESTEN MET GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-         */
-
-          /*
-        EVEN TESTEN MET GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-         */
-
-          /*
-        EVEN TESTEN MET GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-         */
-
-          /*
-        EVEN TESTEN MET GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-         */
-
-          /*
-        EVEN TESTEN MET GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-        BLA BLA BLA GITHUB BLA BLA BLA
-         */
-
-
-        /* KEN BRANDS LAATSTE UPDATE
-        
-         */
     }
 }
