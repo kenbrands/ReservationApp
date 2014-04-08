@@ -46,5 +46,10 @@ public class StartActivity extends Activity {
         BLA BLA BLA GITHUB BLA BLA BLA
         BLA BLA BLA GITHUB BLA BLA BLA
          */
+
+
+        /* KEN BRANDS LAATSTE UPDATE
+        
+         */
     }
 }
