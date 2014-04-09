@@ -29,10 +29,10 @@ public class ReservationContentProvider extends ContentProvider{
     private static final String RESERVATION_BASE_PATH = "reservation";
     private static final String ROOM_BASE_PATH = "room";
 
-    public static final Uri CONTENT_URI_APPOINTMENT = Uri.parse("content://"
+    public static final Uri CONTENT_URI_RESERVATION = Uri.parse("content://"
             + AUTHORITY + "/" + RESERVATION_BASE_PATH);
 
-    public static final Uri CONTENT_URI_DOCTOR = Uri.parse("content://"
+    public static final Uri CONTENT_URI_ROOM = Uri.parse("content://"
             + AUTHORITY + "/" + ROOM_BASE_PATH);
 
     private static final UriMatcher uRIMatcher = new UriMatcher(

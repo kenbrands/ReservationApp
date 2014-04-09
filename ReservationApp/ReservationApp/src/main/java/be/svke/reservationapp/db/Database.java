@@ -13,10 +13,8 @@ public class Database extends SQLiteOpenHelper{
 
 
     private static final String TAG = "Database";
-
     private static final int DB_VERSION = 1;
     private static final String DB_NAME = "appointment_database";
-
     private static final String CREATE_TABLE_RESERVATIONS =
             "create table " + DB.RESERVATIONS.TABLE
                     + " ("
@@ -55,4 +53,7 @@ public class Database extends SQLiteOpenHelper{
         db.execSQL("DROP TABLE IF EXISTS " + DB.ROOMS.TABLE);
         onCreate(db);
     }
+
+
+
 }
